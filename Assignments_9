@@ -1,0 +1,4 @@
+#Check whether or not s is in my_name
+my_name = "Kuldeep Singh"
+S_present = "S" in my_name
+print(S_present)
