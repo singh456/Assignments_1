@@ -1,0 +1,5 @@
+#Display the second object in the tuple
+
+cardinal_numbers = ("first", "second", "third")
+second_object = cardinal_numbers[1]
+print(second_object)
