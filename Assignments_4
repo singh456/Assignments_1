@@ -1,0 +1,3 @@
+#Create a tuple "cardinal_numbers" with "first", "second" and "third"
+cardinal_numbers = ("first", "second", "third")
+print(cardinal_numbers)
