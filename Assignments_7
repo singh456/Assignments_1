@@ -1,0 +1,4 @@
+#Create a tuple containing the letters of your name from a string
+name = "kuldeep"
+name_tuple = tuple(char for char in name)
+print(name_tuple)
