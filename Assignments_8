@@ -1,0 +1,4 @@
+#Check whether or not x is in my_name
+my_name = "Kuldeep"
+x_present = "x" in my_name
+print(x_present)
