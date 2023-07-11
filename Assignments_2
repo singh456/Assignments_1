@@ -1,0 +1,4 @@
+Create a copy of the number list using [:]
+numbers = [1, 2, 3, 4, 5]
+numbers_copy = numbers[:]
+print(numbers_copy)
